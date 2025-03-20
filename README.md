@@ -24,7 +24,7 @@ As a **software developer** on this project, my main contributions included:
 
 ## Repository
 🔗 This project is part of a private repository owned by a team member. However, you can find a general overview of the project here: 
-https://github.com/mzekria2/Exercise-Prescription-App-Front-End
+https://github.com/mzekria2/Exercise-Prescription-App-Front-End <br>
 https://github.com/mzekria2/Exercise-Prescription-App-Back-End
 
 
