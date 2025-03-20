@@ -23,7 +23,7 @@ As a **software developer** on this project, my main contributions included:
 - **Tools**: Git, GitHub, VS Code
 
 ## Repository
-🔗 This project is part of a private repository owned by a team member. However, you can find a general overview of the project here: 
+🔗 This project is part of a private repository owned by a team member. However, you can find a general overview of the project here: <br>
 https://github.com/mzekria2/Exercise-Prescription-App-Front-End <br>
 https://github.com/mzekria2/Exercise-Prescription-App-Back-End
 
